@@ -4,7 +4,7 @@
 
 ### Getting familiar with NumPy and its uses:
 ####
--File input/output
--Computation on arrays
--Aggregation
--Slicing, indexing, and modifying arrays
+- File input/output
+- Computation on arrays
+- Aggregation
+- Slicing, indexing, and modifying arrays
